@@ -1,1 +1,1 @@
-# BlogPost
+# BlogPost code basic learning
